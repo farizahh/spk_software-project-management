@@ -7,36 +7,36 @@ Sistem ini bertujuan untuk membantu memilih **software project management terbai
 ### 1. **Skenario 1**
 - **Alternatif Terbaik**: Microsoft Project
 - Skenario ini menggunakan bobot kriteria sebagai berikut:
-  - **Fungsionalitas**: 0.3794
-  - **Kehandalan**: 0.1024
-  - **Kebergunaan**: 0.2488
-  - **Efisiensi**: 0.1604
-  - **Pemeliharaan**: 0.0434
-  - **Portabilitas**: 0.0655
+  - **Functionality**: 0.3794
+  - **Reliability**: 0.1024
+  - **Usability**: 0.2488
+  - **Efficiency**: 0.1604
+  - **Maintainability**: 0.0434
+  - **Portability**: 0.0655
 - Berdasarkan bobot ini, **Microsoft Project** dianggap sebagai alternatif terbaik.
 
 ### 2. **Skenario 2**
 - **Alternatif Terbaik**: ClickUp
 - Skenario ini menggunakan bobot kriteria yang sedikit berbeda:
-  - **Fungsionalitas**: 0.3968
-  - **Kehandalan**: 0.1071
-  - **Kebergunaan**: 0.2598
-  - **Efisiensi**: 0.1675
-  - **Portabilitas**: 0.0686
+  - **Functionality**: 0.3968
+  - **Reliability**: 0.1071
+  - **Usability**: 0.2598
+  - **Efficiency**: 0.1675
+  - **Portability**: 0.0686
 - Dengan bobot yang lebih tinggi pada beberapa kriteria, **ClickUp** muncul sebagai alternatif terbaik.
 
 ## Perbandingan Skenario
 
 Perbandingan antar skenario didasarkan pada **bobot kriteria** yang digunakan dalam masing-masing skenario. Berikut adalah perbandingan antara kedua skenario berdasarkan bobot:
 
-| Kriteria          | Skenario 1 | Skenario 2 |
-|-------------------|------------|------------|
-| **Fungsionalitas** | 0.3794     | 0.3968     |
-| **Kehandalan**     | 0.1024     | 0.1071     |
-| **Kebergunaan**    | 0.2488     | 0.2598     |
-| **Efisiensi**      | 0.1604     | 0.1675     |
-| **Pemeliharaan**   | 0.0434     | N/A        |
-| **Portabilitas**   | 0.0655     | 0.0686     |
+| Kriteria            | Skenario 1 | Skenario 2 |
+|---------------------|------------|------------|
+| **Functionality**   | 0.3794     | 0.3968     |
+| **Reliability**     | 0.1024     | 0.1071     |
+| **Usability**       | 0.2488     | 0.2598     |
+| **Efficiency**      | 0.1604     | 0.1675     |
+| **Maintainability** | 0.0434     | N/A        |
+| **Portability**     | 0.0655     | 0.0686     |
 
 ## Kesimpulan
 
